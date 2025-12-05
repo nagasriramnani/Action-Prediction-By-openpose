@@ -2,6 +2,9 @@
 
 A state-of-the-art Human Action Recognition system that combines **OpenPose** for skeleton extraction and a custom **3D CNN (ResNet3D)** for temporal action classification. The system features a modern web interface for real-time video analysis and visualization.
 
+DATASWT: you are required to use the pre-existing video data repository, KTH dataset
+(https://web.archive.org/web/20220120114059/https://www.csc.kth.se/cvap/actions/).
+
 ## 🚀 Features
 
 *   **Real-time Analysis**: Upload any video to get instant action classification.
